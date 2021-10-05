@@ -1,1 +1,2 @@
 # logistic-regression-stock-pred
+Here I took the logistic regression model on AAPL stock market. We calculated the cumulative return of the asset and took days before as independent variable and the targeted day as dependent variable. As we see from the graph and also from confusion matrix, when we used the train model for prediction we got a good prediction number. But when we split the data set the logistic regression model does not have a good accuracy.
